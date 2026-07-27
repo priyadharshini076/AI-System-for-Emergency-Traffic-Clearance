@@ -157,10 +157,6 @@ python download.py
 - Reduce input video resolution
 - Enable GPU acceleration
 
-## License
-
-This project is developed as part of the Smart India Hackathon (SIH) initiative.
-
 ## Author
 
 Created for traffic management and emergency response optimization.
